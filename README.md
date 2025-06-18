@@ -2,6 +2,12 @@
 
 ###
 
+<h1 align="center">
+  Hi, I'm César Antonio Lugo Zelaya! I'm an IT professional with a deep passion for technology and a strong commitment to education and web development. My journey in the tech world began in 2013, and since then, I've dedicated myself to cultivating a robust skill set in IT support, computer maintenance, and programming instruction. I'm currently advancing my expertise by pursuing a degree in Computer Engineering.
+</h1>
+
+###
+
 <p align="left">❓ Ask me about anything related to Web Development.
 <br>
 ⚡ Fun fact: Top 100 Gen 5 OU  </p>
