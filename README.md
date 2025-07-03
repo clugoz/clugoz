@@ -13,6 +13,9 @@ Hi, I'm César Antonio Lugo Zelaya! I'm an IT professional with a deep passion f
 <a href="https://www.github.com/clugozEdu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/clugozEdu?logo=github&style=for-the-badge&color=3382ed&labelColor=22272e" /></a>
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/clugo19/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cesar-lugo-aa21b21b8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:clugoant.12z@gmail.com) 
+
 ### Skills
 
 
