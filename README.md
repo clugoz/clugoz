@@ -10,8 +10,8 @@ Hi, I'm César Antonio Lugo Zelaya! I'm an IT professional with a deep passion f
 * ✉️  You can contact me at [clugo@fztedu.org](mailto:clugo@fztedu.org)
 * 🚀  I'm currently working on [Fundacion Zamora Terán](http://piar.fundacionzt.org)
 
-<a href="https://www.github.com/clugozEdu" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/clugozEdu?logo=github&style=for-the-badge&color=3382ed&labelColor=22272e" /></a>
+<a href="https://www.github.com/clugoz" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/clugoz?logo=github&style=for-the-badge&color=3382ed&labelColor=22272e" /></a>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/clugo19/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cesar-lugo-aa21b21b8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:clugoant.12z@gmail.com) 
@@ -26,18 +26,18 @@ src="https://img.shields.io/github/followers/clugozEdu?logo=github&style=for-the
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/clugozEdu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/clugoz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
 <p align="center">
-  <a href="https://github.com/clugozEdu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clugozEdu&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  <a href="https://github.com/clugoz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clugoz&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
 
-   <a href="https://github.com/clugozEdu">
-    <img src="https://github-readme-stats.vercel.app/api?username=clugozEdu&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="clugozEdu's GitHub stats" />
+   <a href="https://github.com/clugoz">
+    <img src="https://github-readme-stats.vercel.app/api?username=clugoz&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="clugoz's GitHub stats" />
   </a>
 </p>
